@@ -1,0 +1,15 @@
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/Exercicio03.csproj.AssemblyReference.cache
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/Exercicio03.AssemblyInfoInputs.cache
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/Exercicio03.AssemblyInfo.cs
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/Exercicio03.csproj.CoreCompileInputs.cache
+/Users/handryocasali/Desktop/gft/Exercicio03/bin/Debug/net6.0/Exercicio03
+/Users/handryocasali/Desktop/gft/Exercicio03/bin/Debug/net6.0/Exercicio03.deps.json
+/Users/handryocasali/Desktop/gft/Exercicio03/bin/Debug/net6.0/Exercicio03.runtimeconfig.json
+/Users/handryocasali/Desktop/gft/Exercicio03/bin/Debug/net6.0/Exercicio03.dll
+/Users/handryocasali/Desktop/gft/Exercicio03/bin/Debug/net6.0/Exercicio03.pdb
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/Exercicio03.dll
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/refint/Exercicio03.dll
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/Exercicio03.pdb
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/Exercicio03.genruntimeconfig.cache
+/Users/handryocasali/Desktop/gft/Exercicio03/obj/Debug/net6.0/ref/Exercicio03.dll
